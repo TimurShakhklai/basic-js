@@ -26,6 +26,6 @@ const CustomError = require("../extensions/custom-error");
     this.chain = [];
     return strResult;
   }
-}
+};
 
 module.exports = chainMaker;
